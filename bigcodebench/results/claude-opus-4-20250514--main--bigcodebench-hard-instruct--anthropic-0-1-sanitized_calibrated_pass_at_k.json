@@ -1,0 +1,12 @@
+{
+  "pass@1": 0.2972972972972973,
+  "model": "claude-opus-4-20250514--main",
+  "split": "instruct",
+  "subset": "hard",
+  "calibrated": true,
+  "gt_pass_rate": 0.9864864864864865,
+  "failed_tasks": [
+    "BigCodeBench/590",
+    "BigCodeBench/101"
+  ]
+}
