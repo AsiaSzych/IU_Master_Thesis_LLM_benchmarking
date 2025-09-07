@@ -1,0 +1,22 @@
+{
+    "result-PA19": {
+        "pass": 0.75,
+        "compile": 0.75
+    },
+    "result-PA20": {
+        "pass": 0.7803030303030302,
+        "compile": 1.0
+    },
+    "result-PA21": {
+        "pass": 0.0,
+        "compile": 0.0
+    },
+    "result-PA22": {
+        "pass": 0.6623376623376623,
+        "compile": 0.7142857142857143
+    },
+    "result_average": {
+        "passs": 0.5481601731601732,
+        "compile": 0.6160714285714286
+    }
+}
