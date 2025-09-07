@@ -42,4 +42,14 @@ The results for this evaluation can be found in *./bigcodebench/results/* folder
 ### HumanEvalPlus 
 For HumanEvalPlus benchmark there were no official results provided for any of the evaluated models. Due to this fact, there was a need to run the benchmarks for all three LLMs. For GPT4.1 and Claude Opus 4, the score was obtained by running `evalplus.evaluate` with necessary arguments, as presented in the [evalplus GitHub](https://github.com/evalplus/evalplus) repository readMe. 
 
-Unfortunatelly, there was a small obstacle, while evaluating DeepSeek model, as at the time of running this benchmark the deepseek-chat alias was already pointing to DeepSeek-V3.1 model version. To access the DeepSeek-V3-0324 model, a third party provider [OpenRouter](https://openrouter.ai/deepseek/deepseek-chat-v3-0324) was used. OpenRouter supports using API via Langchain framework by using functions dedicated to OpenAI standards. Tihs allowed to quickly 
+Unfortunatelly, there was a small obstacle, while evaluating DeepSeek model, as at the time of running this benchmark the deepseek-chat alias was already pointing to DeepSeek-V3.1 model version. To access the DeepSeek-V3-0324 model, a third party provider [OpenRouter](https://openrouter.ai/deepseek/deepseek-chat-v3-0324) was used. OpenRouter supports using API via Langchain framework by using functions dedicated to OpenAI standards. Tihs allowed to quickly modiy the benchmark setup to include Openrouter as a provided - the only thing that was needed to change was the `./provider/openai.py` script, in which the base_url argumnet is now possible to be set up using system variable. So, to use OpenRouter two system variables need to be set: 
+* OPENAI_API_KEY= api-key-from-the-openrouter-website 
+* OPENAI_API_BASE="https://openrouter.ai/api/v1" 
+
+After such a modificatoin, the results for the model are as follows:
+
+| Model | Testing suit | Result|
+|-----:|------:|------:|
+|GPT-4.1-2025-04-14| HumanEvalPlus|92.1|
+|claude-opus-4-20250514| HumanEvalPlus|90.2|
+|DeepSeek-V3-0324| HumanEvalPlus|89.6|
