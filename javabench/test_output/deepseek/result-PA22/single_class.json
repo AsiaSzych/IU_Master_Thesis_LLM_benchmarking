@@ -1,0 +1,352 @@
+[
+    {
+        "task_id": "PA22/Move.java",
+        "compile_errors": 0,
+        "test_result": [
+            70,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/Move.java",
+        "compile_errors": 0,
+        "test_result": [
+            70,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/Move.java",
+        "compile_errors": 36,
+        "test_result": [
+            0,
+            0
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/Move.java",
+        "compile_errors": 0,
+        "test_result": [
+            70,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/Move.java",
+        "compile_errors": 0,
+        "test_result": [
+            70,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/GameMap.java",
+        "compile_errors": 0,
+        "test_result": [
+            45,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/GameMap.java",
+        "compile_errors": 0,
+        "test_result": [
+            45,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/GameMap.java",
+        "compile_errors": 0,
+        "test_result": [
+            68,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/GameMap.java",
+        "compile_errors": 0,
+        "test_result": [
+            45,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/GameMap.java",
+        "compile_errors": 0,
+        "test_result": [
+            45,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/TerminalInputEngine.java",
+        "compile_errors": 0,
+        "test_result": [
+            61,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/TerminalInputEngine.java",
+        "compile_errors": 0,
+        "test_result": [
+            61,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/TerminalInputEngine.java",
+        "compile_errors": 0,
+        "test_result": [
+            61,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/TerminalInputEngine.java",
+        "compile_errors": 0,
+        "test_result": [
+            61,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/TerminalInputEngine.java",
+        "compile_errors": 0,
+        "test_result": [
+            61,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/TerminalSokobanGame.java",
+        "compile_errors": 8,
+        "test_result": [
+            0,
+            0
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/TerminalSokobanGame.java",
+        "compile_errors": 8,
+        "test_result": [
+            0,
+            0
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/TerminalSokobanGame.java",
+        "compile_errors": 8,
+        "test_result": [
+            0,
+            0
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/TerminalSokobanGame.java",
+        "compile_errors": 8,
+        "test_result": [
+            0,
+            0
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/TerminalSokobanGame.java",
+        "compile_errors": 8,
+        "test_result": [
+            0,
+            0
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/TerminalRenderingEngine.java",
+        "compile_errors": 0,
+        "test_result": [
+            69,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/TerminalRenderingEngine.java",
+        "compile_errors": 0,
+        "test_result": [
+            69,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/TerminalRenderingEngine.java",
+        "compile_errors": 0,
+        "test_result": [
+            69,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/TerminalRenderingEngine.java",
+        "compile_errors": 0,
+        "test_result": [
+            69,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/TerminalRenderingEngine.java",
+        "compile_errors": 0,
+        "test_result": [
+            69,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/AbstractSokobanGame.java",
+        "compile_errors": 0,
+        "test_result": [
+            67,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/AbstractSokobanGame.java",
+        "compile_errors": 0,
+        "test_result": [
+            68,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/AbstractSokobanGame.java",
+        "compile_errors": 0,
+        "test_result": [
+            68,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/AbstractSokobanGame.java",
+        "compile_errors": 0,
+        "test_result": [
+            68,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/AbstractSokobanGame.java",
+        "compile_errors": 0,
+        "test_result": [
+            66,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/GameState.java",
+        "compile_errors": 0,
+        "test_result": [
+            65,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/GameState.java",
+        "compile_errors": 0,
+        "test_result": [
+            67,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/GameState.java",
+        "compile_errors": 0,
+        "test_result": [
+            66,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/GameState.java",
+        "compile_errors": 0,
+        "test_result": [
+            67,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA22/GameState.java",
+        "compile_errors": 0,
+        "test_result": [
+            65,
+            70
+        ],
+        "has_todo": false,
+        "can_replace": true
+    }
+]

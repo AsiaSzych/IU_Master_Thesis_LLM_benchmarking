@@ -1,0 +1,502 @@
+[
+    {
+        "task_id": "PA19/Cell.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/Cell.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/Cell.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/Cell.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/Cell.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/FillableCell.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/FillableCell.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/FillableCell.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/FillableCell.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/FillableCell.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/TerminationCell.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/TerminationCell.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/TerminationCell.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/TerminationCell.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/TerminationCell.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/Wall.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/Wall.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/Wall.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/Wall.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/Wall.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/Map.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/Map.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/Map.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/Map.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/Map.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/Pipe.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/Pipe.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/Pipe.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/Pipe.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/Pipe.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/CellStack.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/CellStack.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/CellStack.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/CellStack.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/CellStack.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/DelayBar.java",
+        "compile_errors": 10,
+        "test_result": [
+            0,
+            0
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/DelayBar.java",
+        "compile_errors": 10,
+        "test_result": [
+            0,
+            0
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/DelayBar.java",
+        "compile_errors": 10,
+        "test_result": [
+            0,
+            0
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/DelayBar.java",
+        "compile_errors": 10,
+        "test_result": [
+            0,
+            0
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/DelayBar.java",
+        "compile_errors": 10,
+        "test_result": [
+            0,
+            0
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA19/Game.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/Game.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/Game.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/Game.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/Game.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/PipeQueue.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/PipeQueue.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/PipeQueue.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/PipeQueue.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    },
+    {
+        "task_id": "PA19/PipeQueue.java",
+        "compile_errors": 0,
+        "test_result": [
+            55,
+            55
+        ],
+        "has_todo": false,
+        "can_replace": false
+    }
+]
