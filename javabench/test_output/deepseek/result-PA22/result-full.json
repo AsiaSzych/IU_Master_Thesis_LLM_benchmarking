@@ -1,0 +1,366 @@
+{
+    "PA22/GameMapTest": [
+        {
+            "test_id": "PA22/GameMapTest",
+            "compilable": true,
+            "n_pass": [
+                9,
+                20
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/GameMapTest",
+            "compilable": true,
+            "n_pass": [
+                9,
+                20
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/GameMapTest",
+            "compilable": false,
+            "n_pass": [
+                0,
+                0
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/GameMapTest",
+            "compilable": true,
+            "n_pass": [
+                9,
+                20
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/GameMapTest",
+            "compilable": true,
+            "n_pass": [
+                9,
+                20
+            ],
+            "has_todo": false,
+            "can_replace": true
+        }
+    ],
+    "PA22/TerminalInputEngineTest": [
+        {
+            "test_id": "PA22/TerminalInputEngineTest",
+            "compilable": true,
+            "n_pass": [
+                2,
+                11
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/TerminalInputEngineTest",
+            "compilable": true,
+            "n_pass": [
+                2,
+                11
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/TerminalInputEngineTest",
+            "compilable": false,
+            "n_pass": [
+                0,
+                0
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/TerminalInputEngineTest",
+            "compilable": true,
+            "n_pass": [
+                2,
+                11
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/TerminalInputEngineTest",
+            "compilable": true,
+            "n_pass": [
+                2,
+                11
+            ],
+            "has_todo": false,
+            "can_replace": true
+        }
+    ],
+    "PA22/GameStateTest": [
+        {
+            "test_id": "PA22/GameStateTest",
+            "compilable": true,
+            "n_pass": [
+                1,
+                10
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/GameStateTest",
+            "compilable": true,
+            "n_pass": [
+                1,
+                10
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/GameStateTest",
+            "compilable": false,
+            "n_pass": [
+                0,
+                0
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/GameStateTest",
+            "compilable": true,
+            "n_pass": [
+                1,
+                10
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/GameStateTest",
+            "compilable": true,
+            "n_pass": [
+                1,
+                10
+            ],
+            "has_todo": false,
+            "can_replace": true
+        }
+    ],
+    "PA22/TerminalRenderingEngineTest": [
+        {
+            "test_id": "PA22/TerminalRenderingEngineTest",
+            "compilable": true,
+            "n_pass": [
+                1,
+                2
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/TerminalRenderingEngineTest",
+            "compilable": true,
+            "n_pass": [
+                1,
+                2
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/TerminalRenderingEngineTest",
+            "compilable": false,
+            "n_pass": [
+                0,
+                0
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/TerminalRenderingEngineTest",
+            "compilable": true,
+            "n_pass": [
+                1,
+                2
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/TerminalRenderingEngineTest",
+            "compilable": true,
+            "n_pass": [
+                1,
+                2
+            ],
+            "has_todo": false,
+            "can_replace": true
+        }
+    ],
+    "PA22/TerminalSokobanGameTest": [
+        {
+            "test_id": "PA22/TerminalSokobanGameTest",
+            "compilable": false,
+            "n_pass": [
+                0,
+                0
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/TerminalSokobanGameTest",
+            "compilable": false,
+            "n_pass": [
+                0,
+                0
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/TerminalSokobanGameTest",
+            "compilable": false,
+            "n_pass": [
+                0,
+                0
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/TerminalSokobanGameTest",
+            "compilable": false,
+            "n_pass": [
+                0,
+                0
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/TerminalSokobanGameTest",
+            "compilable": false,
+            "n_pass": [
+                0,
+                0
+            ],
+            "has_todo": false,
+            "can_replace": true
+        }
+    ],
+    "PA22/AbstractSokobanGameTest": [
+        {
+            "test_id": "PA22/AbstractSokobanGameTest",
+            "compilable": true,
+            "n_pass": [
+                10,
+                15
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/AbstractSokobanGameTest",
+            "compilable": true,
+            "n_pass": [
+                11,
+                15
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/AbstractSokobanGameTest",
+            "compilable": false,
+            "n_pass": [
+                0,
+                0
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/AbstractSokobanGameTest",
+            "compilable": true,
+            "n_pass": [
+                11,
+                15
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/AbstractSokobanGameTest",
+            "compilable": true,
+            "n_pass": [
+                9,
+                15
+            ],
+            "has_todo": false,
+            "can_replace": true
+        }
+    ],
+    "PA22/SokobanGameFactoryTest": [
+        {
+            "test_id": "PA22/SokobanGameFactoryTest",
+            "compilable": false,
+            "n_pass": [
+                0,
+                0
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/SokobanGameFactoryTest",
+            "compilable": false,
+            "n_pass": [
+                0,
+                0
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/SokobanGameFactoryTest",
+            "compilable": false,
+            "n_pass": [
+                0,
+                0
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/SokobanGameFactoryTest",
+            "compilable": false,
+            "n_pass": [
+                0,
+                0
+            ],
+            "has_todo": false,
+            "can_replace": true
+        },
+        {
+            "test_id": "PA22/SokobanGameFactoryTest",
+            "compilable": false,
+            "n_pass": [
+                0,
+                0
+            ],
+            "has_todo": false,
+            "can_replace": true
+        }
+    ]
+}

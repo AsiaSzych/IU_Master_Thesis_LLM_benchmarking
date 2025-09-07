@@ -1,0 +1,702 @@
+[
+    {
+        "task_id": "PA20/Archer.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/Archer.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/Archer.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/Archer.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/Archer.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/Knight.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/Knight.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/Knight.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/Knight.java",
+        "compile_errors": 0,
+        "test_result": [
+            47,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/Knight.java",
+        "compile_errors": 0,
+        "test_result": [
+            47,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/ConsolePlayer.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/ConsolePlayer.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/ConsolePlayer.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/ConsolePlayer.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/ConsolePlayer.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/RandomPlayer.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/RandomPlayer.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/RandomPlayer.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/RandomPlayer.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/RandomPlayer.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/JesonMor.java",
+        "compile_errors": 0,
+        "test_result": [
+            44,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/JesonMor.java",
+        "compile_errors": 0,
+        "test_result": [
+            44,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/JesonMor.java",
+        "compile_errors": 0,
+        "test_result": [
+            44,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/JesonMor.java",
+        "compile_errors": 0,
+        "test_result": [
+            44,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/JesonMor.java",
+        "compile_errors": 0,
+        "test_result": [
+            44,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/Main.java",
+        "compile_errors": 0,
+        "test_result": [
+            46,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/Main.java",
+        "compile_errors": 0,
+        "test_result": [
+            46,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/Main.java",
+        "compile_errors": 0,
+        "test_result": [
+            48,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/Main.java",
+        "compile_errors": 0,
+        "test_result": [
+            46,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/Main.java",
+        "compile_errors": 4,
+        "test_result": [
+            0,
+            0
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/ArcherMoveRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/ArcherMoveRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/ArcherMoveRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/ArcherMoveRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/ArcherMoveRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/FirstNMovesProtectionRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/FirstNMovesProtectionRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/FirstNMovesProtectionRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/FirstNMovesProtectionRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/FirstNMovesProtectionRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/KnightBlockRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/KnightBlockRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/KnightBlockRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/KnightBlockRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/KnightBlockRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/KnightMoveRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/KnightMoveRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/KnightMoveRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/KnightMoveRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/KnightMoveRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/NilMoveRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/NilMoveRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/NilMoveRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/NilMoveRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/NilMoveRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/OccupiedRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/OccupiedRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/OccupiedRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/OccupiedRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/OccupiedRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/OutOfBoundaryRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/OutOfBoundaryRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/OutOfBoundaryRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/OutOfBoundaryRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/OutOfBoundaryRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/VacantRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/VacantRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/VacantRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/VacantRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    },
+    {
+        "task_id": "PA20/VacantRule.java",
+        "compile_errors": 0,
+        "test_result": [
+            49,
+            49
+        ],
+        "has_todo": false,
+        "can_replace": true
+    }
+]
